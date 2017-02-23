@@ -1,0 +1,722 @@
+fileFormatVersion: 2
+guid: 3546e46948707954fb4dc176d6ee5902
+timeCreated: 1487637996
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back wall and floor
+    100002: Back wall and floor001
+    100004: Back wall and floor002
+    100006: Back wall and floor003
+    100008: Back wall and floor004
+    100010: Back wall and floor005
+    100012: Back wall and floor006
+    100014: Back wall and floor007
+    100016: ceiling
+    100018: colm_015
+    100020: colm_016
+    100022: colm_017
+    100024: colm_018
+    100026: colm_019
+    100028: colm_020
+    100030: colm_021
+    100032: colm_022
+    100034: colm_023
+    100036: colm_024
+    100038: colm_025
+    100040: colm_026
+    100042: colm_027
+    100044: colm_028
+    100046: colm_029
+    100048: colm_030
+    100050: colm_031
+    100052: colm_032
+    100054: colm_033
+    100056: colm_034
+    100058: colm_035
+    100060: colm_036
+    100062: colm_037
+    100064: colm_038
+    100066: colm_039
+    100068: colm_040
+    100070: colm_041
+    100072: colm_042
+    100074: colm_043
+    100076: colm_044
+    100078: colm_045
+    100080: colm_046
+    100082: colm_047
+    100084: colm_048
+    100086: colm_049
+    100088: colm_050
+    100090: colm_051
+    100092: colm_052
+    100094: colm_053
+    100096: colm_054
+    100098: colm_055
+    100100: colm_056
+    100102: colm_057
+    100104: colm_058
+    100106: colm_059
+    100108: colm_060
+    100110: colm_061
+    100112: colm_062
+    100114: colm_063
+    100116: colm_064
+    100118: colm_065
+    100120: colm_066
+    100122: colm_067
+    100124: colm_068
+    100126: colm_069
+    100128: colm_070
+    100130: colm_071
+    100132: colm_072
+    100134: colm_073
+    100136: colm_074
+    100138: colm_075
+    100140: colm_076
+    100142: colm_077
+    100144: colm_078
+    100146: colm_079
+    100148: colm_080
+    100150: colm_081
+    100152: colm_082
+    100154: colm_083
+    100156: colm_084
+    100158: colm_085
+    100160: colm_086
+    100162: colm_087
+    100164: colm_088
+    100166: colm_1
+    100168: colm_12
+    100170: colm_14
+    100172: colm_6
+    100174: colm_7
+    100176: colm_8
+    100178: Cylinder01
+    100180: Default
+    100182: default001
+    100184: default002
+    100186: default003
+    100188: Default004
+    100190: default004
+    100192: default005
+    100194: Default006
+    100196: default006
+    100198: Default007
+    100200: default007
+    100202: Default011
+    100204: Default012
+    100206: Default016
+    100208: Default017
+    100210: Default018
+    100212: Default019
+    100214: Default020
+    100216: Default021
+    100218: Default022
+    100220: Default023
+    100222: Group001
+    100224: Group002
+    100226: Group006
+    100228: Group007
+    100230: hallway
+    100232: main_1
+    100234: Plane002
+    100236: Plane003
+    100238: Plane004
+    100240: Plane005
+    100242: Plane006
+    100244: Plane007
+    100246: Plane008
+    100248: Plane009
+    100250: right wall
+    100252: right wall001
+    100254: right wall002
+    100256: right wall003
+    100258: right wall004
+    100260: right wall005
+    100262: right wall006
+    100264: right wall007
+    100266: //RootNode
+    100268: tunnel group
+    100270: tunnel group001
+    400000: Back wall and floor
+    400002: Back wall and floor001
+    400004: Back wall and floor002
+    400006: Back wall and floor003
+    400008: Back wall and floor004
+    400010: Back wall and floor005
+    400012: Back wall and floor006
+    400014: Back wall and floor007
+    400016: ceiling
+    400018: colm_015
+    400020: colm_016
+    400022: colm_017
+    400024: colm_018
+    400026: colm_019
+    400028: colm_020
+    400030: colm_021
+    400032: colm_022
+    400034: colm_023
+    400036: colm_024
+    400038: colm_025
+    400040: colm_026
+    400042: colm_027
+    400044: colm_028
+    400046: colm_029
+    400048: colm_030
+    400050: colm_031
+    400052: colm_032
+    400054: colm_033
+    400056: colm_034
+    400058: colm_035
+    400060: colm_036
+    400062: colm_037
+    400064: colm_038
+    400066: colm_039
+    400068: colm_040
+    400070: colm_041
+    400072: colm_042
+    400074: colm_043
+    400076: colm_044
+    400078: colm_045
+    400080: colm_046
+    400082: colm_047
+    400084: colm_048
+    400086: colm_049
+    400088: colm_050
+    400090: colm_051
+    400092: colm_052
+    400094: colm_053
+    400096: colm_054
+    400098: colm_055
+    400100: colm_056
+    400102: colm_057
+    400104: colm_058
+    400106: colm_059
+    400108: colm_060
+    400110: colm_061
+    400112: colm_062
+    400114: colm_063
+    400116: colm_064
+    400118: colm_065
+    400120: colm_066
+    400122: colm_067
+    400124: colm_068
+    400126: colm_069
+    400128: colm_070
+    400130: colm_071
+    400132: colm_072
+    400134: colm_073
+    400136: colm_074
+    400138: colm_075
+    400140: colm_076
+    400142: colm_077
+    400144: colm_078
+    400146: colm_079
+    400148: colm_080
+    400150: colm_081
+    400152: colm_082
+    400154: colm_083
+    400156: colm_084
+    400158: colm_085
+    400160: colm_086
+    400162: colm_087
+    400164: colm_088
+    400166: colm_1
+    400168: colm_12
+    400170: colm_14
+    400172: colm_6
+    400174: colm_7
+    400176: colm_8
+    400178: Cylinder01
+    400180: Default
+    400182: default001
+    400184: default002
+    400186: default003
+    400188: Default004
+    400190: default004
+    400192: default005
+    400194: Default006
+    400196: default006
+    400198: Default007
+    400200: default007
+    400202: Default011
+    400204: Default012
+    400206: Default016
+    400208: Default017
+    400210: Default018
+    400212: Default019
+    400214: Default020
+    400216: Default021
+    400218: Default022
+    400220: Default023
+    400222: Group001
+    400224: Group002
+    400226: Group006
+    400228: Group007
+    400230: hallway
+    400232: main_1
+    400234: Plane002
+    400236: Plane003
+    400238: Plane004
+    400240: Plane005
+    400242: Plane006
+    400244: Plane007
+    400246: Plane008
+    400248: Plane009
+    400250: right wall
+    400252: right wall001
+    400254: right wall002
+    400256: right wall003
+    400258: right wall004
+    400260: right wall005
+    400262: right wall006
+    400264: right wall007
+    400266: //RootNode
+    400268: tunnel group
+    400270: tunnel group001
+    2300000: Back wall and floor
+    2300002: Back wall and floor001
+    2300004: Back wall and floor002
+    2300006: Back wall and floor003
+    2300008: Back wall and floor004
+    2300010: Back wall and floor005
+    2300012: Back wall and floor006
+    2300014: Back wall and floor007
+    2300016: ceiling
+    2300018: colm_015
+    2300020: colm_016
+    2300022: colm_017
+    2300024: colm_018
+    2300026: colm_019
+    2300028: colm_020
+    2300030: colm_021
+    2300032: colm_022
+    2300034: colm_023
+    2300036: colm_024
+    2300038: colm_025
+    2300040: colm_026
+    2300042: colm_027
+    2300044: colm_028
+    2300046: colm_029
+    2300048: colm_030
+    2300050: colm_031
+    2300052: colm_032
+    2300054: colm_033
+    2300056: colm_034
+    2300058: colm_035
+    2300060: colm_036
+    2300062: colm_037
+    2300064: colm_038
+    2300066: colm_039
+    2300068: colm_040
+    2300070: colm_041
+    2300072: colm_042
+    2300074: colm_043
+    2300076: colm_044
+    2300078: colm_045
+    2300080: colm_046
+    2300082: colm_047
+    2300084: colm_048
+    2300086: colm_049
+    2300088: colm_050
+    2300090: colm_051
+    2300092: colm_052
+    2300094: colm_053
+    2300096: colm_054
+    2300098: colm_055
+    2300100: colm_056
+    2300102: colm_057
+    2300104: colm_058
+    2300106: colm_059
+    2300108: colm_060
+    2300110: colm_061
+    2300112: colm_062
+    2300114: colm_063
+    2300116: colm_064
+    2300118: colm_065
+    2300120: colm_066
+    2300122: colm_067
+    2300124: colm_068
+    2300126: colm_069
+    2300128: colm_070
+    2300130: colm_071
+    2300132: colm_072
+    2300134: colm_073
+    2300136: colm_074
+    2300138: colm_075
+    2300140: colm_076
+    2300142: colm_077
+    2300144: colm_078
+    2300146: colm_079
+    2300148: colm_080
+    2300150: colm_081
+    2300152: colm_082
+    2300154: colm_083
+    2300156: colm_084
+    2300158: colm_085
+    2300160: colm_086
+    2300162: colm_087
+    2300164: colm_088
+    2300166: colm_1
+    2300168: colm_12
+    2300170: colm_14
+    2300172: colm_6
+    2300174: colm_7
+    2300176: colm_8
+    2300178: Default
+    2300180: Default004
+    2300182: Default006
+    2300184: Default007
+    2300186: Default011
+    2300188: Default012
+    2300190: Default016
+    2300192: Default017
+    2300194: Default018
+    2300196: Default019
+    2300198: Default020
+    2300200: Default021
+    2300202: Default022
+    2300204: Default023
+    2300206: hallway
+    2300208: main_1
+    2300210: Plane002
+    2300212: Plane003
+    2300214: Plane004
+    2300216: Plane005
+    2300218: Plane006
+    2300220: Plane007
+    2300222: Plane008
+    2300224: Plane009
+    2300226: right wall
+    2300228: right wall001
+    2300230: right wall002
+    2300232: right wall003
+    2300234: right wall004
+    2300236: right wall005
+    2300238: right wall006
+    2300240: right wall007
+    3300000: Back wall and floor
+    3300002: Back wall and floor001
+    3300004: Back wall and floor002
+    3300006: Back wall and floor003
+    3300008: Back wall and floor004
+    3300010: Back wall and floor005
+    3300012: Back wall and floor006
+    3300014: Back wall and floor007
+    3300016: ceiling
+    3300018: colm_015
+    3300020: colm_016
+    3300022: colm_017
+    3300024: colm_018
+    3300026: colm_019
+    3300028: colm_020
+    3300030: colm_021
+    3300032: colm_022
+    3300034: colm_023
+    3300036: colm_024
+    3300038: colm_025
+    3300040: colm_026
+    3300042: colm_027
+    3300044: colm_028
+    3300046: colm_029
+    3300048: colm_030
+    3300050: colm_031
+    3300052: colm_032
+    3300054: colm_033
+    3300056: colm_034
+    3300058: colm_035
+    3300060: colm_036
+    3300062: colm_037
+    3300064: colm_038
+    3300066: colm_039
+    3300068: colm_040
+    3300070: colm_041
+    3300072: colm_042
+    3300074: colm_043
+    3300076: colm_044
+    3300078: colm_045
+    3300080: colm_046
+    3300082: colm_047
+    3300084: colm_048
+    3300086: colm_049
+    3300088: colm_050
+    3300090: colm_051
+    3300092: colm_052
+    3300094: colm_053
+    3300096: colm_054
+    3300098: colm_055
+    3300100: colm_056
+    3300102: colm_057
+    3300104: colm_058
+    3300106: colm_059
+    3300108: colm_060
+    3300110: colm_061
+    3300112: colm_062
+    3300114: colm_063
+    3300116: colm_064
+    3300118: colm_065
+    3300120: colm_066
+    3300122: colm_067
+    3300124: colm_068
+    3300126: colm_069
+    3300128: colm_070
+    3300130: colm_071
+    3300132: colm_072
+    3300134: colm_073
+    3300136: colm_074
+    3300138: colm_075
+    3300140: colm_076
+    3300142: colm_077
+    3300144: colm_078
+    3300146: colm_079
+    3300148: colm_080
+    3300150: colm_081
+    3300152: colm_082
+    3300154: colm_083
+    3300156: colm_084
+    3300158: colm_085
+    3300160: colm_086
+    3300162: colm_087
+    3300164: colm_088
+    3300166: colm_1
+    3300168: colm_12
+    3300170: colm_14
+    3300172: colm_6
+    3300174: colm_7
+    3300176: colm_8
+    3300178: Default
+    3300180: Default004
+    3300182: Default006
+    3300184: Default007
+    3300186: Default011
+    3300188: Default012
+    3300190: Default016
+    3300192: Default017
+    3300194: Default018
+    3300196: Default019
+    3300198: Default020
+    3300200: Default021
+    3300202: Default022
+    3300204: Default023
+    3300206: hallway
+    3300208: main_1
+    3300210: Plane002
+    3300212: Plane003
+    3300214: Plane004
+    3300216: Plane005
+    3300218: Plane006
+    3300220: Plane007
+    3300222: Plane008
+    3300224: Plane009
+    3300226: right wall
+    3300228: right wall001
+    3300230: right wall002
+    3300232: right wall003
+    3300234: right wall004
+    3300236: right wall005
+    3300238: right wall006
+    3300240: right wall007
+    4300000: hallway
+    4300002: ceiling
+    4300004: main_1
+    4300006: Back wall and floor
+    4300008: colm_1
+    4300010: colm_6
+    4300012: colm_7
+    4300014: colm_8
+    4300016: colm_12
+    4300018: colm_14
+    4300020: colm_015
+    4300022: colm_016
+    4300024: colm_017
+    4300026: default001
+    4300028: Default007
+    4300030: Default004
+    4300032: Default006
+    4300034: Default
+    4300036: right wall
+    4300038: colm_018
+    4300040: Plane002
+    4300042: Back wall and floor001
+    4300044: colm_019
+    4300046: colm_020
+    4300048: colm_021
+    4300050: colm_022
+    4300052: colm_023
+    4300054: colm_024
+    4300056: colm_025
+    4300058: colm_026
+    4300060: colm_027
+    4300062: default002
+    4300064: Default011
+    4300066: right wall001
+    4300068: colm_028
+    4300070: Plane003
+    4300072: default004
+    4300074: colm_029
+    4300076: right wall003
+    4300078: colm_030
+    4300080: colm_031
+    4300082: colm_032
+    4300084: colm_033
+    4300086: colm_034
+    4300088: colm_035
+    4300090: colm_036
+    4300092: colm_037
+    4300094: colm_038
+    4300096: Default012
+    4300098: right wall002
+    4300100: Back wall and floor002
+    4300102: Plane005
+    4300104: Plane004
+    4300106: Back wall and floor003
+    4300108: colm_039
+    4300110: colm_040
+    4300112: colm_041
+    4300114: colm_042
+    4300116: colm_043
+    4300118: colm_044
+    4300120: colm_045
+    4300122: colm_046
+    4300124: colm_047
+    4300126: Default016
+    4300128: colm_048
+    4300130: default003
+    4300132: colm_053
+    4300134: colm_054
+    4300136: colm_055
+    4300138: colm_056
+    4300140: colm_057
+    4300142: colm_058
+    4300144: colm_059
+    4300146: colm_060
+    4300148: colm_061
+    4300150: colm_064
+    4300152: default005
+    4300154: Plane008
+    4300156: right wall006
+    4300158: Default019
+    4300160: Back wall and floor006
+    4300162: colm_049
+    4300164: Default017
+    4300166: colm_050
+    4300168: colm_051
+    4300170: colm_052
+    4300172: colm_062
+    4300174: colm_063
+    4300176: colm_065
+    4300178: colm_066
+    4300180: colm_067
+    4300182: right wall004
+    4300184: colm_068
+    4300186: colm_069
+    4300188: colm_070
+    4300190: colm_071
+    4300192: colm_072
+    4300194: colm_073
+    4300196: colm_074
+    4300198: colm_075
+    4300200: colm_076
+    4300202: Default018
+    4300204: right wall005
+    4300206: Back wall and floor004
+    4300208: Plane006
+    4300210: Plane007
+    4300212: Back wall and floor005
+    4300214: colm_077
+    4300216: colm_078
+    4300218: default006
+    4300220: Plane009
+    4300222: right wall007
+    4300224: Default020
+    4300226: Back wall and floor007
+    4300228: colm_079
+    4300230: colm_080
+    4300232: colm_081
+    4300234: colm_082
+    4300236: colm_083
+    4300238: colm_084
+    4300240: colm_085
+    4300242: colm_086
+    4300244: colm_087
+    4300246: default007
+    4300248: Default021
+    4300250: Default022
+    4300252: Default023
+    4300254: colm_088
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: default001
+    13700002: default002
+    13700004: default003
+    13700006: default004
+    13700008: default005
+    13700010: default006
+    13700012: default007
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
